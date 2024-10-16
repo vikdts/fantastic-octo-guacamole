@@ -7,7 +7,9 @@ const Header = () => {
         <nav className="nav container">
             <a href="index.html" className="nav__logo">asd</a>
             <div className="nav__menu">
-                
+                <ul className="nav__list grid">
+                    
+                </ul>
             </div>
         </nav>
     </header>
