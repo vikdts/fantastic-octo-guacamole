@@ -6,6 +6,9 @@ const Header = () => {
     <header className="header">
         <nav className="nav container">
             <a href="index.html" className="nav__logo">asd</a>
+            <div className="nav__menu">
+                
+            </div>
         </nav>
     </header>
   )
