@@ -36,6 +36,11 @@ const Header = () => {
                 </ul>
 
                 <i className="uil uil-times nav__close"></i>
+
+                <div className="nav__toggle">
+                    <i className="uil uil-apps"></i>
+                </div>
+                
             </div>
         </nav>
     </header>
