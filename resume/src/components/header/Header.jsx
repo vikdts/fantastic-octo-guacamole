@@ -34,6 +34,8 @@ const Header = () => {
                         </a>
                     </li>
                 </ul>
+
+                <i className="uil uil-times nav__close"></i>
             </div>
         </nav>
     </header>
