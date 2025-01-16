@@ -18,6 +18,9 @@ const Header = () => {
                         <a href="skills" className="nav__link active-link">SKILLS</a>
                     </li>
                     <li className="nav__item">
+                        <a href="services" className="nav__link active-link">SERVICES</a>
+                    </li>
+                    <li className="nav__item">
                         <a href="work" className="nav__link active-link">WORK</a>
                     </li>
                     <li className="nav__item">
