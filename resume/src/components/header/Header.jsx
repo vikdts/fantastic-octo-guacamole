@@ -5,32 +5,29 @@ const Header = () => {
   return (
     <header className="header">
         <nav className="nav container">
-            <a href="index.html" className="nav__logo">asd</a>
+            <a href="index.html" className="nav__logo">VIK</a>
             <div className="nav__menu">
                 <ul className="nav__list grid">
                     <li className="nav__item">
                         <a href="home" className="nav__link">
-                            <i className="nav__icon">Home</i>
+                            HOME
                         </a>
                     </li>
                     <li className="nav__item">
                         <a href="about" className="nav__link">
-                            <i className="nav__icon">About</i>
+                            ABOUT
                         </a>
                     </li>
                     <li className="nav__item">
-                        <a href="skills" className="nav__link">
-                            <i className="nav__icon">Skills</i>
+                        <a href="skills" className="nav__link">SKILLS
                         </a>
                     </li>
                     <li className="nav__item">
-                        <a href="work" className="nav__link">
-                            <i className="nav__icon">Work</i>
+                        <a href="work" className="nav__link">WORK
                         </a>
                     </li>
                     <li className="nav__item">
-                        <a href="findme" className="nav__link">
-                            <i className="nav__icon">Find me</i>
+                        <a href="findme" className="nav__link">FIND ME
                         </a>
                     </li>
                 </ul>
