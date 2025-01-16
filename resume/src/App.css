@@ -129,6 +129,17 @@ img {
   text-align: center;
 }
 
+.container {
+  max-width: 968px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.grid {
+  display: grid;
+  gap: 1.5rem;
+}
+
 .App {
   text-align: center;
 }
