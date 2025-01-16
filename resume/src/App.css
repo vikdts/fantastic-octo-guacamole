@@ -66,6 +66,11 @@
   box-sizing: border-box;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+
 .App {
   text-align: center;
 }
