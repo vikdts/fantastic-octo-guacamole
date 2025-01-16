@@ -9,26 +9,19 @@ const Header = () => {
             <div className="nav__menu">
                 <ul className="nav__list grid">
                     <li className="nav__item">
-                        <a href="home" className="nav__link">
-                            HOME
-                        </a>
+                        <a href="home" className="nav__link active-link">HOME</a>
                     </li>
                     <li className="nav__item">
-                        <a href="about" className="nav__link">
-                            ABOUT
-                        </a>
+                        <a href="about" className="nav__link active-link">ABOUT</a>
                     </li>
                     <li className="nav__item">
-                        <a href="skills" className="nav__link">SKILLS
-                        </a>
+                        <a href="skills" className="nav__link active-link">SKILLS</a>
                     </li>
                     <li className="nav__item">
-                        <a href="work" className="nav__link">WORK
-                        </a>
+                        <a href="work" className="nav__link active-link">WORK</a>
                     </li>
                     <li className="nav__item">
-                        <a href="findme" className="nav__link">FIND ME
-                        </a>
+                        <a href="findme" className="nav__link active-link">FIND ME</a>
                     </li>
                 </ul>
 
