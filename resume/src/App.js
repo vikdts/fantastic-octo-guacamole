@@ -9,6 +9,10 @@ function App() {
     <>
      <div className="App">
       <Header/>
+      <main className='main'>
+        <Home/>
+      </main>
+    
      </div>
     </>
   );
