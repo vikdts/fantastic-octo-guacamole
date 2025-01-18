@@ -36,6 +36,7 @@
     transition: .3s;
 }
 
+
 .nav__close,
 .nav__toggle {
     display: none;
@@ -75,6 +76,7 @@
         grid-template-columns: repeat(3, 1fr);
         gap: 2rem;
     }
+
 
     .nav__close {
         position: absolute;
