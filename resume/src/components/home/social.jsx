@@ -4,12 +4,12 @@ const Social = () => {
   return (
     <div className="home__social">
       <a
-        href="https://github.com/vikdts"
+        href="https://github.com/vikdts/"
         className="home__social-icon"
         target="_blank"
       >
         <i className="uil uil-github-alt"></i>
-      </a>
+        </a>
 
       <a
         href="https://www.linkedin.com/in/viktoriya-tsareva-b963b3118/?originalSubdomain=bg"
@@ -17,9 +17,10 @@ const Social = () => {
         target="_blank"
       >
         <i className="uil uil-linkedin-alt"></i>
-      </a>
+        </a>
     </div>
   );
 };
 
 export default Social;
+
