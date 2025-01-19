@@ -146,6 +146,8 @@
 
 }
 
+/*=============== small ===============*/
+
 @media screen and (max-width: 350px) {
   .home__img {
     width: 180px;
