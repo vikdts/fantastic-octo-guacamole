@@ -184,6 +184,9 @@ img {
 /*=============== meduim ===============*/
 
 @media screen and (max-width: 768px) {
+  .section {
+    padding: 2rem 0 4rem;
+  }
 }
 
 @media screen and (max-width: 576px) {
