@@ -129,6 +129,11 @@
     order: initial;
     justify-self: initial;
   }
+
+  .home__data {
+    grid-column: 1/3;
+  }
+  
 }
 
 @media screen and (max-width: 576px) {
